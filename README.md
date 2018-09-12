@@ -1,4 +1,4 @@
-Overview
+Overview:
 
 PicMe is an app that allows a user to answer a daily question and find a random GIF that matches what they submitted for an answer.  The GIF can then be posted to the Global page where other users can comment and like the photo.  The goal is to get as many likes on your GIF as possible. A new question will be posted at midnight allowing the user to participate again and trying to receive as many likes as possible. 
 Motivation
